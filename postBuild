@@ -1,5 +1,5 @@
 #!/bin/bash
 jupyter serverextension enable --py nbzip --sys-prefix
-apt-get install -y sudo
-sudo jupyter nbextension install --py nbzip
-jupyter nbextension enable --py nbzip
+#apt-get install -y sudo
+#sudo jupyter nbextension install --py nbzip
+#jupyter nbextension enable --py nbzip
