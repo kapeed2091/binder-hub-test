@@ -4,3 +4,4 @@ seaborn==0.8.1
 pandas
 nbzip
 nbgitpuller
+jupyter_contrib_nbextensions
