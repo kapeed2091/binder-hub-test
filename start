@@ -1,2 +1,4 @@
 #!/bin/bash
-gitpuller https://github.com/data-8/materials-fa17 master materials-fa
+jupyter serverextension enable --py nbzip --sys-prefix --user
+sudo jupyter nbextension install --py nbzip --user
+jupyter nbextension enable --py nbzip --user
