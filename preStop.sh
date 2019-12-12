@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/x-www-form-urlencoded" -d '{"language": "c", "code": "#include <stdio.h>\nint main(){char name[100];\nscanf(\"%s\", name);\nprintf(\"Hello, %s\", name);\n};\n", "stdin": "[\"Deepak\", \"Rahul\"]"}' https://6f3mod0msf.execute-api.ap-south-1.amazonaws.com/v3/c

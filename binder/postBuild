@@ -4,3 +4,5 @@ jupyter nbextension install --py nbzip --user
 jupyter nbextension enable --py nbzip --user
 jupyter serverextension enable nbgitpuller --sys-prefix --user
 #jupyter contrib nbextension install --user
+
+cp preStop.sh /opt/
