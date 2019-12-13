@@ -6,3 +6,4 @@ jupyter serverextension enable nbgitpuller --sys-prefix --user
 #jupyter contrib nbextension install --user
 
 #cp preStop.sh /home/jovyan
+cp jupyter_notebook_config.py ~/.jupyter/
