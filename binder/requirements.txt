@@ -5,3 +5,4 @@ pandas
 nbzip
 nbgitpuller
 jupyter_contrib_nbextensions
+boto3
